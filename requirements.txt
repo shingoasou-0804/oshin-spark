@@ -5,3 +5,4 @@ scikit-learn
 pyspark
 ydata-profiling
 mip
+mip-tool

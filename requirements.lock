@@ -54,6 +54,7 @@ MarkupSafe==2.1.5
 matplotlib==3.8.4
 matplotlib-inline==0.1.7
 mip==1.15.0
+mip-tool==0.3.2
 mistune==3.0.2
 multimethod==1.11.2
 nbclient==0.10.0
